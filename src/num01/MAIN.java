@@ -8,12 +8,12 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
+ *
  * Created by Administrator on 2017/12/15.
  */
 public class MAIN {
     //25337
     public static void main(String[] args) {
-
         long start = System.currentTimeMillis();
         int max=91;
         int count = 0;
